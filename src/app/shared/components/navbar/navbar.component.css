@@ -1,0 +1,11 @@
+:host {
+  display: block;
+}
+/* Add any additional styles for your navbar here */
+/* Styles for the navbar and dropdown */
+nav .group:hover .group-hover\:block {
+  display: block;
+}
+nav .group:hover .group-hover\:block {
+  display: block;
+}
